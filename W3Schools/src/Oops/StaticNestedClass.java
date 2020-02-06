@@ -16,4 +16,4 @@ class OuterClass1 {
 	  }
 	}
 
-	// Outputs 54
+	// Outputs 5
